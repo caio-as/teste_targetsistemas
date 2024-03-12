@@ -22,7 +22,7 @@ def inverte_string(string):
 entrada = input("Digite uma string: ")
 
 # Chamada de função para inverter a string
-string_invertida = inverter_string(entrada)
+string_invertida = inverte_string(entrada)
 
 # Exibir a string invertida
 print("String invertida:", string_invertida)
